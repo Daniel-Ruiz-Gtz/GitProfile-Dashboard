@@ -42,7 +42,9 @@ python main.py
 
 ## Screenshots
 
-NOT READY
+![Screenshot](public\ss\01.png)
+![Screenshot](public\ss\02.png)
+![Screenshot](public\ss\03.png)
 
 ## Contributing
 
@@ -62,5 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [ttkbootstrap](https://github.com/TkinterEP/ttkbootstrap) for styling the Tkinter GUI components.
 - GitHub API for providing user profile data.
-
-Feel free to customize the README to better suit your project and provide more specific details.
