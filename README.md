@@ -42,9 +42,9 @@ python main.py
 
 ## Screenshots
 
-![Screenshot](public\ss\01.png)
-![Screenshot](public\ss\02.png)
-![Screenshot](public\ss\03.png)
+![Screenshot](https://github.com/Daniel-Ruiz-Gtz/GitProfile-Dashboard/blob/main/public/ss/01.png)
+![Screenshot](https://github.com/Daniel-Ruiz-Gtz/GitProfile-Dashboard/blob/main/public/ss/02.png)
+![Screenshot](https://github.com/Daniel-Ruiz-Gtz/GitProfile-Dashboard/blob/main/public/ss/03.png)
 
 ## Contributing
 
